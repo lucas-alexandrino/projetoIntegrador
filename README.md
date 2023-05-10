@@ -14,6 +14,7 @@
 - [Introdução](#introducao)
 - [Características](#caracteristicas)
 - [Objetivos](#objetivos)
+- [Acesso](#acesso)
 - [Estrutura](#estrutura)
 - [Tecnologias](#tecnologias)
 - [Desenvolvedores](#desenvolvedores)
@@ -48,8 +49,14 @@ Os objetivos que pretendemos alcançar com a criação dessa rede social são:
 * Divulgar avaliações de locais de atendimentos
 * Explanar dicas de saúde e bem estar
 
-
-
+## Acesso
+<ul>
+  <li> Conheça nosso back-end:
+    
+ ```   
+https://refugiomental.onrender.com/
+ ```   
+</ul>
 
 <br />
 
@@ -65,7 +72,6 @@ As tecnologias utilizadas nesse projeto foram:
 * Java
 * Spring Boot
 * MySQL
-* Docker
 
 <br />
 
